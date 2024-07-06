@@ -1,16 +1,24 @@
-## Hi there 👋
+# joão Vitor Kopp Da Silva
+## Quem Sou...
 
-<!--
-**joaokopp25/joaokopp25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá Sou João, Tenho 16 Anos, Atualmente estou aprendendo desenvolvimento de sistemas, cursando o Ensino médio.
 
-Here are some ideas to get you started:
+## Educação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cursando o Segundo Ano do Ensino Médio no colegio 25 De Julho 📚
+- Curso Técnico Desenvolvimento De Sistemas Pelo Senac Novo Hamburgo 💻
+
+## Experiência De Trabalho 
+
+Atualmente, Ainda Não Tenho Expêriencia por Ser Muito Jovem. Estou Na Busca Do Meu Primeiro Emprego Na Àrea Que Estou Cursando. 
+
+## Hobbies
+
+- Programar💻
+- Academia🏋️‍♂️
+- Trilhas🌄
+- Filmes🎬
+
+
+
+
